@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="300" viewBox="0 0 490 300">
+  <style>
+      .fadein { opacity: 0; animation: fadein 0.5s ease-out forwards; }
+      @keyframes fadein {
+        from { opacity: 0; transform: translateX(-4px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+    </style>
+  <rect width="100%" height="100%" rx="6" fill="#0d1117" stroke="#21262d"/>
+<text x="22" y="34" font-family="SFMono-Regular, Consolas, monospace" font-size="15" fill="#58a6ff" font-weight="bold">ayush@devbox</text>
+<line x1="22" y1="46" x2="468" y2="46" stroke="#21262d" stroke-width="1"/>
+<g class="fadein" style="animation-delay:0.15s"><text x="22" y="76" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Role</text><text x="108.4" y="76" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">Full Stack Developer (MERN)</text></g>
+<g class="fadein" style="animation-delay:0.24s"><text x="22" y="100" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Experience</text><text x="108.4" y="100" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">~3 years across 4 companies</text></g>
+<g class="fadein" style="animation-delay:0.33s"><text x="22" y="124" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Currently</text><text x="108.4" y="124" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">Mindstein Software — Jan 2026 to Present</text></g>
+<g class="fadein" style="animation-delay:0.42s"><text x="22" y="148" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Studying</text><text x="108.4" y="148" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">MCA @ Lovely Professional University</text></g>
+<g class="fadein" style="animation-delay:0.51s"><text x="22" y="172" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Stack</text><text x="108.4" y="172" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">React.js · Next.js · Node.js · Django</text></g>
+<g class="fadein" style="animation-delay:0.60s"><text x="22" y="196" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Also</text><text x="108.4" y="196" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">Express · MongoDB · PostgreSQL · Tailwind</text></g>
+<g class="fadein" style="animation-delay:0.69s"><text x="22" y="220" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Shipped</text><text x="108.4" y="220" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">GigFlow · MicroCourses · NyayDetect</text></g>
+<g class="fadein" style="animation-delay:0.78s"><text x="22" y="244" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#58a6ff">Focus</text><text x="108.4" y="244" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#c9d1d9">ATS-ready, achievement-driven engineering</text></g>
+  <text x="22" y="286" font-family="SFMono-Regular, Consolas, monospace" font-size="11" fill="#8b949e">updated daily · see contribution graph below</text>
+</svg>
